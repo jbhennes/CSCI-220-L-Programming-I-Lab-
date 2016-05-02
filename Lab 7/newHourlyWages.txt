@@ -1,0 +1,9 @@
+Joe Schmo's new wage: 13.65
+	Joe Schmo's hours this week: 45.45 hours.
+	Joe Schmo's pay this week: 620.39
+Augustus McGillicutty's new wage: 12.65
+	Augustus McGillicutty's hours this week: 36.75 hours.
+	Augustus McGillicutty's pay this week: 464.89
+Johnny Williams's new wage: 9.65
+	Johnny Williams's hours this week: 72.34 hours.
+	Johnny Williams's pay this week: 698.08
